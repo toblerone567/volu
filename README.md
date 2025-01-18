@@ -17,6 +17,6 @@ Control + left arrow | Skip back
 
 Control + right arrow | Skip forward 
 
-COntrol + m | Mute
+Control + m | Mute
 
   
